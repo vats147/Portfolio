@@ -131,7 +131,7 @@ html{
 .home {
     display: flex;
 
-    background-image: url("images/images/banner.jpg");
+    background-image: url("banner.jpg");
 
     background-repeat: no-repeat;
     background-position: center;
